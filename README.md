@@ -13,27 +13,23 @@
 
 ### OpenClaw/Agent Skills
 
-📖 [usccb-cli](https://github.com/DeGrandis/usccb-cli) - Command-line tool for accessing daily Catholic Mass readings, prayers, and finding nearby churches from the USCCB
-
-🥬 [kwfcli](https://github.com/DeGrandis/kwfcli) - CLI interface for Kimberton Whole Foods grocery chain with product search, pricing, and weekly sales
+- 📖 **[usccb-cli](https://github.com/DeGrandis/usccb-cli)** - Command-line tool for accessing daily Catholic Mass readings, prayers, and finding nearby churches from the USCCB
+- 🥬 **[kwfcli](https://github.com/DeGrandis/kwfcli)** - CLI interface for Kimberton Whole Foods grocery chain with product search, pricing, and weekly sales
 
 ### Chrome Extensions
 
-🌙 [canvas-dark-mode](https://github.com/DeGrandis/canvas-dark-mode) - Dark mode for Canvas LMS (27+ stars, 142 forks) - Available on [Chrome Web Store](https://chrome.google.com/webstore/detail/canvas-dark-mode/jbfgmfpakhabhhpefblmehnadjjkadna)
-
-📺 [Youtube-rss-chrome-plugin](https://github.com/DeGrandis/Youtube-rss-chrome-plugin) - RSS button for YouTube channels, enabling privacy-focused subscriptions
+- 🌙 **[canvas-dark-mode](https://github.com/DeGrandis/canvas-dark-mode)** - Dark mode for Canvas LMS (27+ stars, 142 forks) - Available on [Chrome Web Store](https://chrome.google.com/webstore/detail/canvas-dark-mode/jbfgmfpakhabhhpefblmehnadjjkadna)
+- 📺 **[Youtube-rss-chrome-plugin](https://github.com/DeGrandis/Youtube-rss-chrome-plugin)** - RSS button for YouTube channels, enabling privacy-focused subscriptions
 
 ### Utilities
 
-🎵 [youtube-downloader-converter](https://github.com/DeGrandis/youtube-downloader-converter) - Python script automating YouTube downloads and MP3 conversions
+- 🎵 **[youtube-downloader-converter](https://github.com/DeGrandis/youtube-downloader-converter)** - Python script automating YouTube downloads and MP3 conversions
 
 ### Main Site
 
-🌐 [sideproject](https://github.com/DeGrandis/sideproject) - Full-stack web application with auth, backend services, and multiple frontends
-
- 🍅 [TomatoTomato](https://tomatotomato.degrand.is/) - Multiplayer party game (like Cards Against Humanity)
-
- 🎯 [Infinitivia](https://trivia.degrand.is/) - Multiplayer trivia game
+- 🌐 **[sideproject](https://github.com/DeGrandis/sideproject)** - Full-stack web application with auth, backend services, and multiple frontends
+  - 🍅 **[TomatoTomato](https://tomatotomato.degrand.is/)** - Multiplayer party game (like Cards Against Humanity)
+  - 🎯 **[Infinitivia](https://trivia.degrand.is/)** - Multiplayer trivia game
 
 
 ## Connect
