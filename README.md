@@ -21,6 +21,7 @@
 
 - 📖 **[usccb-cli](https://github.com/DeGrandis/usccb-cli)** - Command-line tool for accessing daily Catholic Mass readings, prayers, and finding nearby churches from the USCCB
 - 🥬 **[kwfcli](https://github.com/DeGrandis/kwfcli)** - CLI interface for Kimberton Whole Foods grocery chain with product search, pricing, and weekly sales
+- 🚆 **[septa-cli](https://github.com/DeGrandis/septa-cli)** - Real-time SEPTA Regional Rail train schedules, departures, delays, and live train tracking for Philadelphia
 
 ### Chrome Extensions
 
