@@ -11,6 +11,12 @@
 
 ## Current Projects
 
+### Main Site
+
+- 🌐 **[sideproject](https://github.com/DeGrandis/sideproject)** - Full-stack web application with auth, backend services, and multiple frontends
+  - 🍅 **[TomatoTomato](https://tomatotomato.degrand.is/)** - Multiplayer party game (like Cards Against Humanity)
+  - 🎯 **[Infinitivia](https://trivia.degrand.is/)** - Multiplayer trivia game
+
 ### OpenClaw/Agent Skills
 
 - 📖 **[usccb-cli](https://github.com/DeGrandis/usccb-cli)** - Command-line tool for accessing daily Catholic Mass readings, prayers, and finding nearby churches from the USCCB
@@ -25,11 +31,7 @@
 
 - 🎵 **[youtube-downloader-converter](https://github.com/DeGrandis/youtube-downloader-converter)** - Python script automating YouTube downloads and MP3 conversions
 
-### Main Site
 
-- 🌐 **[sideproject](https://github.com/DeGrandis/sideproject)** - Full-stack web application with auth, backend services, and multiple frontends
-  - 🍅 **[TomatoTomato](https://tomatotomato.degrand.is/)** - Multiplayer party game (like Cards Against Humanity)
-  - 🎯 **[Infinitivia](https://trivia.degrand.is/)** - Multiplayer trivia game
 
 
 ## Connect
