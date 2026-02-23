@@ -22,6 +22,9 @@
 - 📖 **[usccb-cli](https://github.com/DeGrandis/usccb-cli)** - Command-line tool for accessing daily Catholic Mass readings, prayers, and finding nearby churches from the USCCB
 - 🥬 **[kwfcli](https://github.com/DeGrandis/kwfcli)** - CLI interface for Kimberton Whole Foods grocery chain with product search, pricing, and weekly sales
 - 🚆 **[septa-cli](https://github.com/DeGrandis/septa-cli)** - Real-time SEPTA Regional Rail train schedules, departures, delays, and live train tracking for Philadelphia
+- 🌤️ **[weather_cli](https://github.com/DeGrandis/weather_cli)** - National Weather Service CLI for current conditions and detailed forecasts for any US location
+- 📈 **[stock_cli](https://github.com/DeGrandis/stock_cli)** - Real-time stock prices, historical data, and market analysis from Yahoo Finance
+- 💵 **[usa_inflation_calculator_cli](https://github.com/DeGrandis/usa_inflation_calculator_cli)** - Calculate inflation adjustments using official US Bureau of Labor Statistics CPI data
 
 ### Chrome Extensions
 
