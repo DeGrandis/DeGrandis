@@ -16,6 +16,10 @@
   - 🍅 **[TomatoTomato](https://tomatotomato.degrand.is/)** - Multiplayer party game (like Cards Against Humanity)
   - 🎯 **[Infinitivia](https://trivia.degrand.is/)** - Multiplayer trivia game
 
+### Space Projects
+
+- 🚀 **[space-proxy-simulator](https://github.com/DeGrandis/space-proxy-simulator)** - MITM proxy that simulates deep-space latency and bandwidth limits for browsing the modern web from the Moon, Mars, or custom environments
+
 ### OpenClaw/Agent Skills
 
 - 📖 **[usccb-cli](https://github.com/DeGrandis/usccb-cli)** - Command-line tool for accessing daily Catholic Mass readings, prayers, and finding nearby churches from the USCCB
